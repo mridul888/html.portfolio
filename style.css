@@ -1,10 +1,56 @@
 body{
     background-color:rgb(233, 239, 236);
 }
+
 h1{
-    color: rgb(22, 66, 60);
-    
+  color: rgb(22, 66, 60);
+  font-family: "Playwrite GB S", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
 }
-#sirtata{
-    margin:20cm ;
+.sir-tata{
+     width: 70%;
+     margin-right: 100%;
+     border: 10px solid black;
+}
+h2{
+    
+        font-family: "Prociono", serif;
+        font-weight: 400;
+        font-style: normal;
+        color:seagreen ;     
+}
+h3{        
+    font-family: "Playwrite GB S", cursive;
+    font-weight: 6600;
+    font-style: normal;
+    font-size: 20px;
+    color: rgb(22, 66, 60);
+}
+.ratan{
+    font-family: "Prociono", serif;
+    font-weight: 500;
+    font-style: normal;
+    width: 100%;
+}
+.father{
+    width: 70%;
+    border: 10px solid black;
+}
+.father-1{    
+    font-weight: 6600;
+    font-style: normal;
+    font-size: 20px;
+
+}
+.mother-1{
+    font-weight: 6600;
+    font-style: normal;
+    font-size: 20px;
+}
+.mother{    width: 70%;
+    border: 10px solid black;
+
+
 }
