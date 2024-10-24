@@ -35,7 +35,7 @@ h3{
     width: 100%;
 }
 .father{
-    width: 40%;
+    width: 30%;
     border: 10px solid black;
 }
 .father-1{    
@@ -49,8 +49,7 @@ h3{
     font-style: normal;
     font-size: 20px;
 }
-.mother{    width: 40%;
+.mother{    
+    width: 30%;
     border: 10px solid black;
-
-
 }
